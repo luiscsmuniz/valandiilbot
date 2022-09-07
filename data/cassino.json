@@ -1,0 +1,53 @@
+{
+  "cassino": {
+    "emotes": [
+      "Shush",
+      "GlitchCat",
+      "VoHiYo",
+      "Kappa",
+      "VoteNay",
+      "VoteYea",
+      "SSSsss",
+      "BibleThump",
+      "HeyGuys"
+    ],
+    "award": [
+      {
+        "emote": ["VoteYea", "VoteYea", "VoteYea"],
+        "command": "Dê um trocado pro seu streamer. Ó, Vale Abundante! 🎵"
+      },
+      {
+        "emote": ["VoHiYo", "VoHiYo", "VoHiYo"],
+        "command": "/me Você acabou de ganhar uma chance de doar 5 reais https://livepix.gg/valandiil VoHiYo"
+      },
+      {
+        "emote": ["Kappa", "Kappa", "Kappa"],
+        "command": "░░░░░░░░░ ░░░░▄▀▀▀▀▀█▀▄▄▄▄░░░░ ░░▄▀▒▓▒▓▓▒▓▒▒▓▒▓▀▄░░ ▄▀▒▒▓▒▓▒▒▓▒▓▒▓▓▒▒▓█░ █▓▒▓▒▓▒▓▓▓░░░░░░▓▓█░ █▓▓▓▓▓▒▓▒░░░░░░░░▓█░ ▓▓▓▓▓▒░░░░░░░░░░░░█░ ▓▓▓▓░░░░▄▄▄▄░░░▄█▄▀░ ░▀▄▓░░▒▀▓▓▒▒░░█▓▒▒░░ ▀▄░░░░░░░░░░░░▀▄▒▒█░ ░▀░▀░░░░░▒▒▀▄▄▒▀▒▒█░ ░░▀░░░░░░▒▄▄▒▄▄▄▒▒█░  ░░░▀▄▄▒▒░░░░▀▀▒▒▄▀░░ ░░░░░▀█▄▒▒░░░░▒▄▀░░░ ░░░░░░░░▀▀█▄▄▄▄▀"
+      },
+      {
+        "emote": ["HeyGuys", "HeyGuys", "HeyGuys"],
+        "command": "@:user, HeyGuys"
+      },
+      {
+        "emote": ["SSSsss", "SSSsss", "SSSsss"],
+        "command": "/timeout @:user 30s"
+      },
+      {
+        "emote": ["GlitchCat", "GlitchCat", "GlitchCat"],
+        "command": "/timeout @:user 60s"
+      },
+      {
+        "emote": ["BibleThump", "BibleThump", "BibleThump"],
+        "command": "/timeout @:user 90s"
+      },
+      {
+        "emote": ["VoteNay", "VoteNay", "VoteNay"],
+        "command": "/timeout @:user 120s"
+      },
+      {
+        "emote": ["Shush", "Shush", "Shush"],
+        "command": "/timeout @:user 300s"
+      }
+    ]
+  }
+}
