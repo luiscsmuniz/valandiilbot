@@ -41,7 +41,7 @@ app.all('/ranking', async (req, res) => {
 app.use(bodyParser.json({ extended: true }))
 
 function keepAlive() {
-  app.listen(3000, () => {
+  app.listen(3001, () => {
     console.log("Server is ready.")
   })
 }
